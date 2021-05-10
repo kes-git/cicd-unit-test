@@ -1,0 +1,22 @@
+{
+  "name": "cicd-unit-test",
+  "version": "1.0.0",
+  "description": "R&D project for CICD and Unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kes-git/cicd-unit-test.git"
+  },
+  "keywords": [
+    "cicd"
+  ],
+  "author": "Laksiri Fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kes-git/cicd-unit-test/issues"
+  },
+  "homepage": "https://github.com/kes-git/cicd-unit-test#readme"
+}
