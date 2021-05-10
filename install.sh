@@ -1,1 +1,1 @@
-npm install
+/home/laksiri/.nvm/versions/node/v16.1.0/bin/npm install
