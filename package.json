@@ -2,9 +2,13 @@
   "name": "cicd-unit-test",
   "version": "1.0.0",
   "description": "R&D project for CICD and Unit tests",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
   },
   "repository": {
     "type": "git",
